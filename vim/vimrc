@@ -1,0 +1,12 @@
+:syntax on
+:set termguicolors
+:set number
+:set hlsearch
+:set tabstop=4
+:set expandtab
+:set shiftwidth=4
+#:color simpleblack
+#:set background=dark
+:set cursorline
+:set rnu
+:set colorcolumn=80
